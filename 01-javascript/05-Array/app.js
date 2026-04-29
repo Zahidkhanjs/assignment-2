@@ -80,7 +80,53 @@
 // console.log(returnevale);
 // console.log(username);
 
-var username = [ "zahid " , "khan " , "hello "]
+// var username = [ "zahid " , "khan " , "hello "]
 
-username.splice(0 , 0 , "zhaidhakhkjh" )
-console.log(username);
+// username.splice(0 , 0 , "zhaidhakhkjh" )
+// console.log(username);
+
+
+// var username = [ "zahid khan" , "hello " , "fruit"]
+
+// var copyary = username.slice(1,2)
+
+// console.log(copyary);
+// console.log(username);
+
+// var fruits = ["apple" , "mengo " , "banana "]
+
+// var newfruit = fruits.slice(1,2)
+
+// console.log(newfruits);
+// console.log(fruits);
+
+
+// let numbers = [10, 20, 30, 40, 50, 60];
+// let num = numbers.slice(2,5)
+// console.log(numbers);
+// console.log(num);
+
+// let colors = ["red", "blue", "green", "yellow", "black"];
+// let yello = colors.slice(3 , 6)
+// console.log(colors);
+// console.log(yello);
+
+
+// let marks = [80, 90, 70, 60];
+// let copy = marks.slice(0 , 4)
+// console.log(marks);
+// console.log(copy);
+
+// let animals = ["lion", "cat", "dog", "tiger", "elephant"];
+// var janver = animals.slice(1 ,3)
+// console.log(animals);
+// console.log(janver);
+
+// let fruits = ["apple", "banana", "mango", "orange", "grapes"];
+// let vegetables = fruits.slice(0,3)
+// console.log(fruits);
+// console.log(vegetables);
+
+// let fruits = ["apple", "banana", "mango"];
+// let origin = fruits.push(origin)
+// console.log(fruits);
